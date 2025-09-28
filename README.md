@@ -24,7 +24,7 @@ Feel free to **edit this template** and make it your own. Change copy, colours, 
 ## How to use
 
 1. Clone or download the repository.
-2. Open the project folder and edit files in the `/src` (or root) to customise content.
+2. Open the project folder and edit files in the `index.html` (or root) to customise content.
 3. Update `package.json` scripts if needed.
 4. Test locally with `npm install` and `npm run dev` (or the start command provided by the template).
 
